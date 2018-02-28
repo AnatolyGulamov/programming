@@ -1,0 +1,15 @@
+D:\GitHub\Programming\programming\Circle\Circle\bin\Debug\Circle.exe.config
+D:\GitHub\Programming\programming\Circle\Circle\bin\Debug\Circle.exe
+D:\GitHub\Programming\programming\Circle\Circle\bin\Debug\Circle.pdb
+D:\GitHub\Programming\programming\Circle\Circle\obj\Debug\Circle.csprojResolveAssemblyReference.cache
+D:\GitHub\Programming\programming\Circle\Circle\obj\Debug\MainWindow.g.cs
+D:\GitHub\Programming\programming\Circle\Circle\obj\Debug\App.g.cs
+D:\GitHub\Programming\programming\Circle\Circle\obj\Debug\Circle_MarkupCompile.cache
+D:\GitHub\Programming\programming\Circle\Circle\obj\Debug\Circle_MarkupCompile.lref
+D:\GitHub\Programming\programming\Circle\Circle\obj\Debug\MainWindow.baml
+D:\GitHub\Programming\programming\Circle\Circle\obj\Debug\Circle.g.resources
+D:\GitHub\Programming\programming\Circle\Circle\obj\Debug\Circle.Properties.Resources.resources
+D:\GitHub\Programming\programming\Circle\Circle\obj\Debug\Circle.csproj.GenerateResource.Cache
+D:\GitHub\Programming\programming\Circle\Circle\obj\Debug\Circle.csproj.CoreCompileInputs.cache
+D:\GitHub\Programming\programming\Circle\Circle\obj\Debug\Circle.exe
+D:\GitHub\Programming\programming\Circle\Circle\obj\Debug\Circle.pdb
